@@ -5,7 +5,7 @@ s=smtplib.SMTP('smtp.gmail.com',587)
 
 s.starttls()
 
-s.login("satyamssingh1402@gmail.com","Singh@1402")
+s.login("satyamsingh1402@gmail.com","Singh@1402")
 
 subject1 = 'Important'
 
